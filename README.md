@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @iscalewis
 - 👀 I’m interested in Kubernetes
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Kubernetes
+- 💞️ I’m looking to collaborate on Kubernetes
+- 📫 How to reach me - please no
 
 <!---
 iscalewis/iscalewis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
